@@ -1,0 +1,30 @@
+Ansiblee Introduction 
+
+Most popular open-source automation tool 
+No special software on remote host 
+
+Linux learning? 
+
+it uses the same methods as an administration  like SSH, WinRM, API 
+
+simple to work with 
+- uses YAML automation scripts called playbooks 
+- you don't have to be a programmer!!!
+- it's human readable with just a logic flow 
+
+
+cross platform compatible 
+- if its a piece of IT infrastructure you need to manage, ansible can automate it!!!
+
+active community 
+- find and use exxisiting automation
+
+to connect to automation (ansible architecture) 
+local execution 
+- connecting to routers or switches, things like APIs 
+- ansible controller, servier runs ansible 
+- API commands are sent directly 
+
+and remote execution 
+- the execution is sent from the remote host 
+- controlle
